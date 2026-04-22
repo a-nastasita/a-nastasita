@@ -1,10 +1,11 @@
 ## 👋 Я – Junior QA Engineer, 
 и на этом GitHub размещены практические задачи и артефакты, созданные мной в процессе обучения тестированию и самостоятельной практики 
 
+#
 
-Ознакомиться с моим резюме можно по ссылке: https://drive.google.com/file/d/1INFaXnx5fc1Ba15TZVegc1Kp54FlLSl3/view?usp=drive_link
+Ознакомиться с моим резюме можно [по ссылке](https://drive.google.com/file/d/1INFaXnx5fc1Ba15TZVegc1Kp54FlLSl3/view?usp=drive_link)
 
-
+#
 ### Связаться со мной:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/a_nastasita)
