@@ -7,16 +7,10 @@
 
 ### Связаться со мной:
 
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)
-![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/a_nastasita)
+[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail&)](mailto:anastasita.timo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anastasia-timofeeva-9150543a8/)
 
-
-telegram: @a_nastasita 
-
-anastasita.timo@gmail.com
-
-https://www.linkedin.com/in/anastasia-timofeeva-9150543a8/
 
 
 
